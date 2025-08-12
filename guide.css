@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 100vh;
+    background-image: url(./images/desktop/image-header.jpg) ;
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+#logo{
+    font-size: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+#logo a{
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    border: 60px;
+    border-radius: 25px 15px;
+    font-size: 30px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    
+
+}
+
+
+
+.subheading h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    padding: 30px 350px;
+    color: white;
+    
+}
+
+.selection h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding: 15px 0px;
+}
+
+.selection p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px 0px;
+
+}
+
+.selection{
+    padding: 120px 120px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+    
+.container-2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-stand-out img{
+    width: 630px;
+   
+}
+
+.sector{
+    padding: 120px 120px;
+}
+
+.sector  h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.sector p{
+    padding: 25px 0px;
+}
+
+.container-3{
+    display: flex;
+    justify-content:  space-between;
+}
+
+#image-graphic{
+    background-image:url(./images/desktop/image-graphic-design.jpg);
+    width: 630px;
+    justify-items: center;
+    padding-top: 400px;
+    background-repeat: no-repeat;
+}
+
+#image-photography{
+    background-image:url(./images/desktop/image-photography.jpg);
+    width: 722px;
+    justify-items: center;
+    padding-top: 400px;
+    background-repeat: no-repeat;
+}
+
+
+.container-5{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 100px;
+    margin-top: 40px;
+    
+   
+}
+
+.container-5 img{
+    width: 30px;
+    border-radius: 15px 14px;
+}
+
+.container-6{
+    display: flex;
+}
+
+.container-6 img{
+    width: 100%;
+}
+
+.container-7{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 40px 60px;
+}
